@@ -38,7 +38,7 @@
 
 ## 📫 Connect
 - [Send me an email](mailto:aslam68339@gmail.com)
-- [Portfolio](https://mohammedaslam.github.io)
+- [Portfolio](https://mohammedaslam615.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/aslam-a70044314)
 
 
